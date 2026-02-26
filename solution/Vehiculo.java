@@ -1,4 +1,4 @@
-package experiments;
+package solution;
 
 import java.util.Random;
 

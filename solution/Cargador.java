@@ -1,4 +1,4 @@
-package experiments;
+package solution;
 
 public class Cargador extends Thread {
     private final int id;

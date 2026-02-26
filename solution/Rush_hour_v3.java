@@ -1,4 +1,4 @@
-package experiments;
+package solution;
 
 import java.io.BufferedReader;
 import java.io.File;
