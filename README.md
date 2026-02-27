@@ -57,7 +57,7 @@ Dado que el espacio de estados de Rush Hour es finito pero complejo, se ha imple
 Para la entrega, el archivo comprimido debe mantener la siguiente jerarquía para asegurar la correcta resolución de paquetes y la compilación vía Makefile:
 
 ```
-<26272957>-<Lopez>-<CEDULA_MARIA>-<Delgado>-Proyecto_3/
+<26272957>-<LOPEZ>-<29662488>-<DELGADO>-Proyecto_3/
 ├── README.md              # Este archivo
 ├── Makefile               # Script de compilación
 ├── nivel1.txt             # Casos de prueba
